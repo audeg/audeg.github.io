@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background: #FFF8DC;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
