@@ -2,8 +2,8 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: #510642;
-    color: #fffefa;
+    background: #FDF6F2;
+    color: #2a003d;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 nav ul, footer ul {
@@ -18,7 +18,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #ed45e4;
+    color: #ED9778;
 }
 a:hover {
     text-decoration: underline;
@@ -35,18 +35,17 @@ p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #fffefa;
+    color: #708090;
+    color: #2a003d;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
-
 ul.posts li {
     list-style: none;
 }
